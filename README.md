@@ -45,7 +45,7 @@ The SARIMA model proved to be the most effective in capturing the complex season
 * **Model Accuracy:** Root Mean Squared Error (RMSE) of **13,995** on the test data.
 * **Visual Validation:** As seen in the chart below, the Forecast (Red Line) closely tracks the Actual Sales (Green Line), particularly capturing the critical end-of-year spike.
 
-![Placeholder: Insert your 'Improved Forecast Plot' image here]([images/forecast_result.png](https://github.com/Syarifudin10/time-series-analysis/blob/main/time%20series_sales%20forecasting.png))
+![Placeholder: Insert your 'Improved Forecast Plot' image here](https://github.com/Syarifudin10/time-series-analysis/blob/main/time%20series_sales%20forecasting.png)
 *(Fig 2: Actual Sales (2017) vs SARIMA Forecast)*
 
 ---
